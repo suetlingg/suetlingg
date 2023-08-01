@@ -4,4 +4,4 @@
 *  🍗 Background in Food Science  
 *  🌱 Constantly Growing
 
-✨ Documenting My Projects. 
+✨ Documenting my personal data science projects 
