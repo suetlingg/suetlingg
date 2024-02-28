@@ -1,6 +1,6 @@
 #### Hi there, I am Suet Ling 👋
 
-*  💻 Current Master in Data Science student @ University Malaya 
+*  💻 Master in Data Science student @ University Malaya 
 *  🍗 Background in Food Science  
 *  🌱 Constantly Growing
 
